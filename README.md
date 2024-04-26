@@ -6,8 +6,8 @@ Java projekts, kas realizē metamā kauliņa mešanu un nejauša skaitļa iegū�
 - [x] Uzsākta lokālā projekta versionēšana ar Git
 - [x] Izveidots GitHub konts
 - [x] Izveidota GitHub krātuve
-- [ ] Papildināt GitHub saturu iegūt lokālai lietošanai
+- [x] Papildināt GitHub saturu iegūt lokālai lietošanai
 - [ ] Projektam pievienots vēl viens programmētājs (līdzdalībnieks)
-- [ ] Projektā ieviests jauns zars (branch)
+- [x] Projektā ieviests jauns zars (branch)
 - [ ] Sapludināti zari un novērsts sapludināšanas konflikts
 - [ ] Novērsts kļūdas pieteikums (issue)
